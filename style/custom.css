@@ -21,7 +21,6 @@ h5{
     color:black;
     
 }
-
 .btn-success{
     background-color: purple;
     color: ghostwhite;
@@ -54,22 +53,17 @@ button.btn-lg.btn-success:hover{
 #sobre img {
     border-radius: 50%;
 }
-
-
 input,
 textarea {
     margin-bottom: 1rem;
 }
-
 .card{
     width: 30%;
     float: left;
     margin: 30px;
     border: 1px solid black;
     background-color: lavender; 
-    
 }
-
 .card img{
     margin: 5px;
 }
