@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(196, 141, 196);
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+textarea.form-control{
+    width: 100% !important;
+    border: 1px solid black ;
+}
+button.btn.btn-lg.btn-success{
+    background-color: black;
+    color: whitesmoke;
+    border: 1px solid purple;
+    
+}
+a, a.nav-link{
+    color: blue;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+a:hover{
+    background-color: black;  
+    
+}
+p, label.form-check-label.col-form-label-sm{
+    font-size: 1.2rem;
+}
+
+label.col-form-label.col-form-label-sm{
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+}
+input.form-control, #estado{
+    border:1px solid black;
+}
